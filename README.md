@@ -81,16 +81,10 @@
 - Evaluated model effectiveness, with the Decision Tree Classifier achieving the highest accuracy of 86% using TFIDF and VowpalWabbit reaching 88% accuracy with an average loss of 12%.
 - Identified future research directions including expanding the dataset with more hate tweets and enhancing model training to improve classification accuracy in combating societal issues.
   
-### Project 5: Trained Different ML Models and Used NLP Tools for Class Projects
-<p align="center">
-  <img src="https://placeimg.com/400/200/tech" alt="Trained Different ML Models and Used NLP Tools for Class Projects">
-</p>
-
-Conducted tokenization, POS tagging, and sentiment analysis on Twitter data for insights. Performed web scraping, data extraction, and analysis using Python (Pandas, NLTK, NumPy, SciPy), Vowpal Wabbit, and WordCloud.
 
 ### [Project 6: Identification of Fake News using Deep Learning Architecture](https://github.com/poornikabonam/fake-news-cnn-lstm-project)
 <p align="center">
-  <img src="https://github.com/poornikabonam/poornikabonam/assets/97566249/ac83508d-40d6-4ea3-9fe9-aa74da848208">
+  <img src="https://github.com/poornikabonam/poornikabonam/assets/97566249/ac83508d-40d6-4ea3-9fe9-aa74da848208" width="500" height="200">
 </p>
 
 - The project targets the pervasive issue of fake news dissemination, employing a novel approach integrating CNN and LSTM architectures.
