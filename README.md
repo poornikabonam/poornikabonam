@@ -7,7 +7,8 @@
 ## 📧 Contact Me
 - 📧 E-mail: poornikabonam@gmail.com
 - 🔎 LinkedIn: [linkedin.com/in/pbonam](https://www.linkedin.com/in/pbonam)
-- 🔗 Website: [github.com/yourgithubprofile](https://github.com/yourgithubprofile)
+- 📄 [Resume](https://drive.google.com/file/d/1SKJaXgMKIOlDNLPAz4d7_RpfVHMBIxqf/view)
+- 🔗 [Website](github.com/yourgithubprofile)
 
 <!-- Introduction -->
 <p align="center">
