@@ -11,8 +11,14 @@
 
 <!-- Introduction -->
 <p align="center">
-  <h2> I'm a passionate AI/ML enthusiast with a Master's in Computer Science and a diverse background in data analysis, machine learning, and cloud computing. Welcome to my GitHub portfolio, where I showcase my projects, share insights, and connect with fellow AI enthusiasts. Let's dive into the world of AI together! 🚀 </h2>
+  <h2> I'm a passionate AI/ML enthusiast with a Master's in Computer Science and a diverse background in data analysis, machine learning, and cloud computing. Welcome to my GitHub portfolio, where I showcase my projects, and share insights. Let's dive into the world of AI together! 🚀 </h2>
 </p>
+
+## 📄 Know about my experiences
+
+- 💻 University of Massachusetts - Data Analyst/ML/NLP Intern
+- 💻 University of Massachusetts Lowell - ML/NLP Research Assistant
+- 💻 Infor, Hyderabad - DevOps Engineer, Associate
 
 <!-- Skills -->
 ## 🛠️ Skills
