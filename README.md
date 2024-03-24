@@ -70,13 +70,17 @@
 
 
 
-### Project 4: Detecting Hateful Speech in Tweets using Sentiment Analysis
+### [Project 4: Detecting Hateful Speech in Tweets using Sentiment Analysis](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis)
 <p align="center">
-  <img src="https://placeimg.com/400/200/tech" alt="Detecting Hateful Speech in Tweets using Sentiment Analysis">
+  <img src="https://github.com/poornikabonam/poornikabonam/assets/97566249/6c77cbc0-9e19-42c9-96da-c5d156c2529a">
 </p>
 
-Implemented BERT and Naive Bayes approaches for sentiment analysis to detect hate speech in tweets related to major incidents. Utilized Python (NLTK, Pandas, NumPy, Matplotlib, Sklearn, wordcloud), Vowpal Wabbit.
-
+- Implemented BERT and Naive Bayes for sentiment analysis, focusing on hate speech detection in Twitter data related to major incidents.
+- Explored preprocessing techniques like Lemmatization and stemming to standardize tweet content and employed feature extraction methods such as TFIDF and bag-of-words.
+- Balanced the dataset containing a high proportion of positive tweets using class weights and downsampling to improve model performance.
+- Evaluated model effectiveness, with the Decision Tree Classifier achieving the highest accuracy of 86% using TFIDF and VowpalWabbit reaching 88% accuracy with an average loss of 12%.
+- Identified future research directions including expanding the dataset with more hate tweets and enhancing model training to improve classification accuracy in combating societal issues.
+  
 ### Project 5: Trained Different ML Models and Used NLP Tools for Class Projects
 <p align="center">
   <img src="https://placeimg.com/400/200/tech" alt="Trained Different ML Models and Used NLP Tools for Class Projects">
@@ -84,16 +88,25 @@ Implemented BERT and Naive Bayes approaches for sentiment analysis to detect hat
 
 Conducted tokenization, POS tagging, and sentiment analysis on Twitter data for insights. Performed web scraping, data extraction, and analysis using Python (Pandas, NLTK, NumPy, SciPy), Vowpal Wabbit, and WordCloud.
 
-### Project 6: Identification of Fake News using Deep Learning Architecture
+### [Project 6: Identification of Fake News using Deep Learning Architecture](https://github.com/poornikabonam/fake-news-cnn-lstm-project)
 <p align="center">
-  <img src="https://placeimg.com/400/200/tech" alt="Identification of Fake News using Deep Learning Architecture">
+  <img src="https://github.com/poornikabonam/poornikabonam/assets/97566249/ac83508d-40d6-4ea3-9fe9-aa74da848208">
 </p>
 
-Developed a hybrid neural network (CNN + LSTM) with dimensionality reduction techniques for fake news detection. Implemented in Python (TensorFlow, Keras, Scikit-Learn, Flask) and RNN.
-
-### Project 7: Home Surveillance and Motion Detector with Raspberry Pi
+- The project targets the pervasive issue of fake news dissemination, employing a novel approach integrating CNN and LSTM architectures.
+- Methodologies encompass the adoption of dimensionality reduction techniques like PCA and Chi-Square, enhancing feature extraction efficacy within the neural network framework.
+- Experimental validations conducted on the FNC dataset demonstrate notable improvements, with PCA outperforming Chi-Square and achieving a 4% accuracy boost.
+- Implemented using Python, the project provides a practical solution for automated fake news detection, potentially mitigating the societal impacts of misinformation.
+- Significantly, the project's focus on stance detection and determining news article credibility vis-a-vis headlines contributes to advancing automated fake news detection tools, addressing critical needs in contemporary media ecosystems.
+  
+### [Project 7: Home Surveillance and Motion Detector with Raspberry Pi](https://github.com/poornikabonam/home-surveillance-project)
 <p align="center">
-  <img src="https://placeimg.com/400/200/tech" alt="Home Surveillance and Motion Detector with Raspberry Pi">
+  <img src="https://github.com/poornikabonam/poornikabonam/assets/97566249/2903f934-4b59-4188-a86a-76d1fc7a5d11">
 </p>
 
-Implemented a home surveillance system using a Raspberry Pi, detecting abnormal movement and sending alerts with image frames to the cloud. Applied Python, Image Processing, Computer Vision, and OpenCV.
+- The project involves implementing a home surveillance system using Raspberry Pi and Python.
+- It aims to detect motion, capture images, and send them to Dropbox for storage and notification.
+- Leveraging Raspberry Pi's capabilities along with Python and OpenCV, the system detects motion through image processing techniques.
+- Integration with Dropbox provides a reliable method for storing captured images and enabling remote access.
+- The primary objective is to develop a smart surveillance system to ensure home safety by detecting and alerting users of any unusual activity.
+
