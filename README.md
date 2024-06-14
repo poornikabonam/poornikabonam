@@ -7,7 +7,7 @@
 ## 📧 Contact Me
 - 📧 E-mail: poornikabonam@gmail.com
 - 🔎 LinkedIn: [linkedin.com/in/pbonam](https://www.linkedin.com/in/pbonam)
-- 📄 [Resume](https://drive.google.com/file/d/1SKJaXgMKIOlDNLPAz4d7_RpfVHMBIxqf/view)
+- 📄 [Resume](https://drive.google.com/file/d/1epFlJj1fOMHwOicV3V46muA6oqkU_wJC/view?usp=drive_link)
 - 🔗 [Website](https://poornikabonam.github.io)
 
 <!-- Introduction -->
@@ -16,10 +16,10 @@
 </p>
 
 ## 📄 Know about my experiences
-
-- 💻 University of Massachusetts - Data Analyst/ML/NLP Intern
-- 💻 University of Massachusetts Lowell - ML/NLP Research Assistant
-- 💻 Infor, Hyderabad - DevOps Engineer, Associate
+- 💻 Software Engineer - Imago Rehab(Startup)
+- 💻 Data Analyst/ML/NLP Intern - University of Massachusetts 
+- 💻 ML/NLP Research Assistant - University of Massachusetts Lowell
+- 💻 DevOps Engineer, Associate - Infor
 
 <!-- Skills -->
 ## 🛠️ Skills
