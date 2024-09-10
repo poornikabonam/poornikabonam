@@ -7,7 +7,6 @@
 ## 📧 Contact Me
 - 📧 E-mail: poornikabonam@gmail.com
 - 🔎 LinkedIn: [linkedin.com/in/pbonam](https://www.linkedin.com/in/pbonam)
-- 📄 [Resume](https://drive.google.com/file/d/1epFlJj1fOMHwOicV3V46muA6oqkU_wJC/view?usp=drive_link)
 
 
 <!-- Introduction -->
